@@ -1,4 +1,3 @@
-class Food(object):
  class Food(object):
     def __init__(self, n, v, c):
         self.names = n
