@@ -97,7 +97,7 @@ class Edge(object):
     
     return g
   
-  print(buildCity(Digraph))
+  print(buildCity(Directed_graph))
   
     
     
